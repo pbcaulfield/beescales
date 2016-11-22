@@ -72,17 +72,17 @@ At this point the hardware list includes the following chips:
  - Though for prototype, will be wooden enclosure, solid piece with centre routed. Further to follow
  
  Estimated cost thus far:
+ 
 |   Part   |   Cost   |
-|----------|----------|
+|:---|---:|
 |Nano      |     $3.05|
 |HX711     |     $1.15|
 |Mosfets   |     $2.00|
 |ESP8266   |     $2.33|
 |L.Sensor  |     $3.00|
 |DC-DC C.  |     $0.72|
-|----------|----------|
-|Total     |    $12.25|
-|----------|----------|
+|**Total**     |    **$12.25**|
+
 As such excludes batteries, charging, connectors, atmospheric monitoring, etc etc as well as server side componentary.
 Adding in a rough estimate, BOM should be around or less than $25 AUD.
 
