@@ -1,11 +1,12 @@
-#Hardware'
+#Hardware
 
-![Possible schematic outline](http://www.schematics.com/project/beescale-44560/)
+[Possible schematic outline](http://www.schematics.com/project/beescale-44560/)
 
 ##CPU
 
 ###[Arduino Nano](https://www.arduino.cc/en/Main/ArduinoBoardNano)
 COST:$3.00/unit
+
 Although retired, there are plenty of sites which provide this product. It can be powered by battery, and configured to use extremely low power. It should also have adequate memory (32k-2k) for the task at hand, provided libraries can be reduced in size. This uses the ATMEGA328 CPU and has a variety of analog and digital outputs.
 
 ##Connectivity
@@ -14,6 +15,7 @@ Although retired, there are plenty of sites which provide this product. It can b
 
 ###nRF24L01+ Module
 Linked [here](https://maniacbug.wordpress.com/2011/11/02/getting-started-rf24/).
+
 COST:$1.70/unit
 
 ###RFM69HW Transceiver
