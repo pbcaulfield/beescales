@@ -1,6 +1,6 @@
 #Hardware'
 
-![Possible schematic outline](http://www.schematics.com/embed/beescale-44560)
+![Possible schematic outline](http://www.schematics.com/project/beescale-44560/)
 
 ##CPU
 
