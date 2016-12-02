@@ -1,6 +1,6 @@
 #Hardware'
 
-<iframe width='500' height='300' frameborder='0' scrolling='no' src='http://www.schematics.com/embed/beescale-44560'></iframe>
+[Possible schematic outline](http://www.schematics.com/embed/beescale-44560)
 
 ##CPU
 
