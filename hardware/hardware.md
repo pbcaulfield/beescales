@@ -16,6 +16,10 @@ Although retired, there are plenty of sites which provide this product. It can b
 ###nRF24L01+ Module
 Linked [here](https://maniacbug.wordpress.com/2011/11/02/getting-started-rf24/).
 
+https://www.nordicsemi.com/kor/node_176/2.4GHz-RF/nRF24L01P
+
+http://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo
+
 COST:$1.70/unit
 
 ###RFM69HW Transceiver
