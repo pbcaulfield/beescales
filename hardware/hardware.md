@@ -1,4 +1,6 @@
-#Hardware
+#Hardware'
+
+<iframe width='500' height='300' frameborder='0' scrolling='no' src='http://www.schematics.com/embed/beescale-44560'></iframe>
 
 ##CPU
 
@@ -15,6 +17,10 @@ Linked [here](https://maniacbug.wordpress.com/2011/11/02/getting-started-rf24/).
 COST:$1.70/unit
 
 ###RFM69HW Transceiver
+
+http://www.ebay.com.au/sch/i.html?_from=R40&_sacat=0&_nkw=HC-12+433&_sop=15
+
+
 
 
 #Alternatives Considered
